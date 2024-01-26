@@ -1,13 +1,13 @@
 # Sharpstistics
 .NET Statistics library for computing following statistics values:
 * *confidence interval*
-* *confidence interval endpoints* 
+* *confidence interval endpoints*
 * *standard deviation*
 
-##Why
-*"Without information about confidence interval your results doesn't mean anything to me in terms of statistics"* 
-
-Alan NULL, 2015
+## Why
+> Without information about confidence interval your results doesn't mean anything to me in terms of statistics
+>
+> <sub>***Alan NULL, 2015***</sub>
 
 
 ## Usage
@@ -17,4 +17,3 @@ All possible library usages can be found in [SharpstisticsTests](https://github.
 [Confidence_interval](https://en.wikipedia.org/wiki/Confidence_interval)
 
 [Student's t-distribution](https://en.wikipedia.org/wiki/Student%27s_t-distribution)
-
